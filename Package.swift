@@ -7,7 +7,7 @@ let package = Package(
     name: "JSONSafeEncoder",
     platforms: [
         .macOS("10.15"),
-        .iOS("13.0"),
+        .iOS("12.0"),
         .tvOS("11.0"),
         .watchOS("7.1")
     ],
